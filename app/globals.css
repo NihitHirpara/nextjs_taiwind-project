@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.font_IBM{
+    font-family: 'IBM plex mono';
+}
+.font_kanit{
+    font-family: 'Kanit';
+}
+.font_lato{
+    font-family: 'Lato'
+}
+.font_rubik{
+    font-family: 'Rubik';
+}
